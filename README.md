@@ -2,6 +2,7 @@
 
 ##  Overview
 This project contains the **SQL implementation** of **Assembly Plant Transaction Master (FIN026)** — a consolidated fact table that harmonizes data from multiple operational systems including CMMS, IERP, GSDB, and Plant Hierarchy.  
+
 The solution is to create a single source of truth for manufacturing and finance analytics.
 
 ---
